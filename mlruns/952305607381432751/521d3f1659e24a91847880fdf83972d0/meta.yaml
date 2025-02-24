@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/952305607381432751/521d3f1659e24a91847880fdf83972d0/artifacts
+end_time: 1740377701900
+entry_point_name: ''
+experiment_id: '952305607381432751'
+lifecycle_stage: active
+run_id: 521d3f1659e24a91847880fdf83972d0
+run_name: colorful-croc-128
+run_uuid: 521d3f1659e24a91847880fdf83972d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740377695993
+status: 3
+tags: []
+user_id: vikasrathod

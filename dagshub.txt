@@ -1,0 +1,12 @@
+https://dagshub.com/Vikas-Rathod1/Experiments-with-MLflow.mlflow   #tracking uri
+
+
+
+
+import dagshub
+dagshub.init(repo_owner='Vikas-Rathod1', repo_name='Experiments-with-MLflow', mlflow=True)  # inint dagshub
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
